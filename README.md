@@ -32,7 +32,7 @@ Below is a summary of the key tools and resources available in this hub:
 
 ## Contributing
 
-Contributions to this tool hub are welcome! Whether it's adding new tools, improving existing ones, or providing educational content, your input is valuable. Please see [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines on how to contribute.
+Contributions to this tool hub are welcome! Whether it's adding new tools, improving existing ones, or providing educational content, your input is valuable. Please see [CONTRIBUTING.md](/contributing.md) for guidelines on how to contribute.
 
 ## Feedback and Suggestions
 
