@@ -53,4 +53,4 @@ If you have any questions, please feel free to contact the project maintainers.
 
 Thank you for your interest in contributing to CADDTOOLS!
 
-[Payal Chatterjee](cpayal)
+Payal Chatterjee
