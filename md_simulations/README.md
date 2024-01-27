@@ -32,7 +32,8 @@ This directory includes:
 - **Advanced Techniques:** Information on more advanced MD simulation method like enhanced sampling techniques like Steered MD, Targeted MD, Accelerated MD, methods for determination of ligand binding free energy, etc. 
 - **Tutorials:** Step-by-step tutorials on how to perform specific types of MD simulations.
 
-## Learning Resources : Unfortunately, not everything is free, but most of them are. 
+## Learning Resources : 
+Unfortunately, not everything is free, but most of them are. 
 
 - **Books:**
     1. Allen, M.P. and Tildesley, D.J., 2017. Computer simulation of liquids
