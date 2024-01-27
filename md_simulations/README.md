@@ -29,14 +29,39 @@ This directory includes:
 
 - **Basic Guides:** Introductory material for beginners to understand the core concepts of MD simulations.
 - **Scripts and Tools:** Practical scripts and tools to set up and run MD simulations using various software packages.
-- **Advanced Techniques:** Information on more advanced MD simulation methods.
+- **Advanced Techniques:** Information on more advanced MD simulation method like enhanced sampling techniques like Steered MD, Targeted MD, Accelerated MD, methods for determination of ligand binding free energy, etc. 
 - **Tutorials:** Step-by-step tutorials on how to perform specific types of MD simulations.
 
-## Learning Resources
+## Learning Resources : Unfortunately, not everything is free, but most of them are. 
 
-- **Books:** A curated list of recommended reading for in-depth understanding (to be added).
-- **Articles:** Relevant articles and papers.
-- **Online Courses:** Links to online courses and tutorials.
+- **Books:**
+    1. Allen, M.P. and Tildesley, D.J., 2017. Computer simulation of liquids
+    2. Frenkel, D. and Smit, B., 2023. Understanding molecular simulation: from algorithms to applications. Elsevier.
+    3. Tuckerman, M.E., 2023. Statistical mechanics: theory and molecular simulation. Oxford university press.
+    4. Leach, A.R., 2001. Molecular modelling: principles and applications. Pearson education.
+    
+- **Articles:**
+    1. Karplus, M. and Petsko, G.A., 1990. Molecular dynamics simulations in biology. Nature, 347(6294), pp.631-639.
+    2. Hollingsworth, S.A. and Dror, R.O., 2018. Molecular dynamics simulation for all. Neuron, 99(6), pp.1129-1143.
+    3. Hansson, T., Oostenbrink, C. and van Gunsteren, W., 2002. Molecular dynamics simulations. Current opinion in structural biology, 12(2), pp.190-196.
+    4. Warshel, A., 2002. Molecular dynamics simulations of biological reactions. Accounts of chemical research, 35(6), pp.385-395.
+    5. Borhani, D.W. and Shaw, D.E., 2012. The future of molecular dynamics simulations in drug discovery. Journal of computer-aided molecular design, 26, pp.15-26.
+
+  And many more .....
+- **Online Courses:**
+    1. [Life Science Online Certification Courses by Schrodinger](/https://newsite.schrodinger.com/life-science/learn/education/courses?utm_source=google&utm_medium=cpc&utm_campaign=edu-soc-all-search&utm_content=text%20ad&utm_term=molecular%20modeling%20course&hsa_acc=2584137415&hsa_cam=19740857184&hsa_grp=143373364941&hsa_ad=649713565669&hsa_src=g&hsa_tgt=kwd-600827228811&hsa_kw=molecular%20modeling%20course&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA8NKtBhBtEiwAq5aX2CTcWhJpou0JeQmVrE4wFKvUSN71niq5D5oYRGl0gs66vTf5yAdRaxoC5oYQAvD_BwE)
+    2. [Class Central's Youtube Courses](/https://www.classcentral.com/course/youtube-md-simulation-97524)
+    3. [Coursera's course on Molecular Dynamics](/https://www.coursera.org/lecture/dense-gases-liquids-solids/molecular-dynamics-h2Mtp)
+    4. [Udemy's Online Course](/https://www.udemy.com/course/learn-molecular-dynamics-from-scratch/)
+    5. EMBL's courses :
+       - https://www.ebi.ac.uk/training/events/mathematics-life-modelling-molecular-mechanisms-virtual/
+       - https://www.ebi.ac.uk/training/events/bioexcel-summer-school-biomolecular-simulations-2020/
+       - https://www.ebi.ac.uk/training/events/embl-ebi-workshop-mathematics-life-workshop-modelling-molecular-mechanisms-basic-science-drug/
+- **Online Resources:**
+    1. [MIT's open course ware Lectures](/https://ocw.mit.edu/courses/3-320-atomistic-computer-modeling-of-materials-sma-5107-spring-2005/resources/lecture-13-molecular-dynamics-i/)
+    2. [About Force Fields](/https://www.ks.uiuc.edu/Research/namd/2.9/ug/node21.html)
+    3. [GROMACS's Tutorial](/https://tutorials.gromacs.org/md-intro-tutorial.html)
+    4. [Amber Tutorial](/https://ambermd.org/tutorials)
 
 ## How to Use This Repository
 
