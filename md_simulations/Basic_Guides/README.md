@@ -3,7 +3,7 @@
 - **01_Introduction_to_MD/**
   - [README.md](01_Introduction_to_MD/README.md)
   - [intro_to_md_MP_Allen.pdf](01_Introduction_to_MD/intro_to_md_MP_Allen.pdf)
-  - [intor_to_MD: from NAMD's website](01_Introduction_to_MD/01_intro_to_md.pdf)
+  - [intro_to_MD: from NAMD's website](01_Introduction_to_MD/01_intro_to_md.pdf)
   
 - **02_Setting_Up_Your_First_Simulation/**
   - [README.md](02_Setting_Up_Your_First_Simulation/README.md)
