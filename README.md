@@ -1,7 +1,7 @@
 # Computer Aided Drug Design (CADD) Tool Hub
 ## By : [Payal Chatterjee](https://www.linkedin.com/in/payal-chatterjee-47026628/)
-### [Github](https://github.com/cpayal)
-### [Google Scholar](https://scholar.google.com/citations?user=I_8EyjcAAAAJ&hl=en)
+### [Visit my : Github](https://github.com/cpayal) | [Google Scholar](https://scholar.google.com/citations?user=I_8EyjcAAAAJ&hl=en)
+
 
 Welcome to this comprehensive hub of tools and resources for Computational Chemistry, with a special emphasis on drug design. This repository serves as a one-stop destination for computational chemists, researchers, and students seeking Python-based tools and pipelines for  computer aided drug design. 
 
