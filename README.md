@@ -1,4 +1,7 @@
 # Computer Aided Drug Design (CADD) Tool Hub
+## By : [Payal Chatterjee](https://www.linkedin.com/in/payal-chatterjee-47026628/)
+### [Github](https://github.com/cpayal)
+### [Google Scholar](https://scholar.google.com/citations?user=I_8EyjcAAAAJ&hl=en)
 
 Welcome to this comprehensive hub of tools and resources for Computational Chemistry, with a special emphasis on drug design. This repository serves as a one-stop destination for computational chemists, researchers, and students seeking Python-based tools and molecular dynamics techniques.
 
@@ -11,11 +14,14 @@ This repository is dedicated to providing a suite of tools, scripts, and educati
 Below is a summary of the key tools and resources available in this hub:
 
 - **Molecular Dynamics Simulations**:
-  - Tools and scripts for running MD simulations using major MD packages such as GROMACS,OpenMM and NAMD.
+  - Tools and fully automated scripts for running MD simulations using major MD packages such as GROMACS,OpenMM and NAMD.
   - Tutorials and guides for setting up and analyzing simulations.
 
 - **Drug Design Techniques**:
-  - Python-based scripts for ligand docking, virtual screening, and pharmacophore modeling.
+  - Python-based scripts for ligand docking, virtual screening, pharmacophore modeling, QSAR and Machine Learning models in various stages of drug design such as :
+     - Hit to lead screening
+     - Lead optimization
+     - ADMET or DMPK  prediction
   - Resources on structure-based and ligand-based drug design.
 
 - **Cheminformatics**:
