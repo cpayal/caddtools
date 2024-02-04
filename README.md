@@ -57,4 +57,4 @@ This project is made possible thanks to the contributions from the computational
 This hub is constantly evolving, with new tools and resources added regularly. Bookmark this repository and check back often for the latest in Computational Chemistry tools and techniques.
 
 ## Project Website
-For more detailed information and documentation, visit our [GitHub Pages site](https://cpayal.github.io/caddtools).
+For more detailed information and documentation, visit my [GitHub Pages site](https://cpayal.github.io/caddtools).
