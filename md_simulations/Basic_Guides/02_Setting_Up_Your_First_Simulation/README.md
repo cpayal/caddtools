@@ -14,7 +14,8 @@ In this module, you'll gain hands-on experience with:
 
 ## Contents
 
-- [**setup_guide.pdf**](setup_guide.pdf): A comprehensive guide detailing each step in the setup process, complete with tips and best practices.
+- [**01_Protein_Prepartion**](01_Protein_Preparation.ipynb): A jupyter-notebook that automates the process of pre-processing a protein-ligand complex pdb.
+- [**02_MD_System_Prepartion_for_GROMACS**](02_System_Preparation_GROMACS.ipynb): A jupyter-notebook that automates the process of preparing a protein-ligand , solvated system with AmberFF and GAFF for GROMACS MD package
 - [**example_configs/**](example_configs/): Example configuration files that you can use as templates for your simulations.
   - [protein_preparation_config.txt](example_configs/protein_preparation_config.txt): An example configuration for protein preparation.
   - [simulation_parameters.md](example_configs/simulation_parameters.md): Descriptions of common simulation parameters and how to set them.
