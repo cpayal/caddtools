@@ -6,11 +6,11 @@
   - [intro_to_MD: from NAMD's website](01_Introduction_to_MD/01_intro_to_md.pdf)
   
 - **02_Setting_Up_Your_First_Simulation/**
-  - [README.md](02_Setting_Up_Your_First_Simulation/README.md)
-  - [setup_guide.pdf](02_Setting_Up_Your_First_Simulation/setup_guide.pdf)
-  - **example_configs/**
-    - [protein_preparation_config.txt](02_Setting_Up_Your_First_Simulation/example_configs/protein_preparation_config.txt)
-    - [simulation_parameters.md](02_Setting_Up_Your_First_Simulation/example_configs/simulation_parameters.md)
+  - [**01_Protein_Prepartion**](01_Protein_Preparation.ipynb): A jupyter-notebook that automates the process of pre-processing a protein-ligand complex pdb.
+  - [**02_MD_System_Prepartion_for_GROMACS**](02_System_Preparation_GROMACS.ipynb): A jupyter-notebook that automates the process of preparing a protein-ligand , solvated system with AmberFF and GAFF for GROMACS MD package
+  - [**example_configs/**](example_configs/): Example configuration files that you can use as templates for your simulations.
+    - [protein_preparation_config.txt](example_configs/protein_preparation_config.txt): An example configuration for protein preparation.
+    - [simulation_parameters.md](example_configs/simulation_parameters.md): Descriptions of common simulation parameters and how to set them.
 
 - **03_Understanding_MD_Software/**
   - [README.md](03_Understanding_MD_Software/README.md)
