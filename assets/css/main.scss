@@ -7,4 +7,8 @@ body {
   margin: 0 auto; // Centering the content with automatic margins
   max-width: 1200px; // Limiting maximum width of the content
   padding: 0 20px; // Adding some padding on the sides
+  background-image: url('../background.jpg'); /* Adjust path as necessary */
+  background-size: cover; /* Cover ensures the background covers the entire page */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat; /* Prevent the background image from repeating */
 }
