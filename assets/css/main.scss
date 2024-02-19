@@ -7,8 +7,25 @@ body {
   margin: 0 auto; // Centering the content with automatic margins
   max-width: 1200px; // Limiting maximum width of the content
   padding: 0 10px; // Adding some padding on the sides
-  background-image: #url('../background.jpg'); /* Adjust path as necessary */
+  position: relative; // Needed for pseudo-element positioning
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../images/background.jpg'); /* Adjust path as necessary */
   background-size: cover; /* Cover ensures the background covers the entire page */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Prevent the background image from repeating */
+  opacity: 0.5; // Making the background image 50% transparent
+  z-index: -1; // Ensuring the pseudo-element is behind the content
+}
+
+body, .wrapper {
+  position: relative;
+  z-index: 1; // Ensuring content is above the pseudo-background
 }
