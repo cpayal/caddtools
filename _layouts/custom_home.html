@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<!-- Hero Section -->
+<div class="hero">
+  {{ content }}
+</div>
+
+<!-- About Section -->
+<div class="about">
+  <!-- Your about content here -->
+</div>
+
+<!-- Recent Posts (example) -->
+<div class="recent-posts">
+  <h2>Recent Posts</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
