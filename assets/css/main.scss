@@ -21,7 +21,7 @@ body::before {
   background-size: cover; /* Cover ensures the background covers the entire page */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Prevent the background image from repeating */
-  opacity: 0.5; // Making the background image 50% transparent
+  opacity: 0.8; // Making the background image 50% transparent
   z-index: -1; // Ensuring the pseudo-element is behind the content
 }
 
