@@ -8,4 +8,4 @@
 4. ML in ADMET prediction
 
 ## Note 
-Applications of ML in MD can be found inside the [MD simulations](caddtools/md_simulations) page
+Applications of ML in MD can be found inside the [MD simulations](https://github.com/cpayal/caddtools/tree/main/md_simulations)https://github.com/cpayal/caddtools/tree/main/md_simulations) page
