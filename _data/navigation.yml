@@ -8,11 +8,7 @@ main:
     children:
       - title: "MD for beginners"
         url: /caddtools/md_simulations/Basic_Guides
-            children:
-              - title: "Introduction to MD"
-                url: /caddtools/md_simulations/01_introduction_to_MD
-              - title: "Setting up your first System"
-                url: /caddtools/md_simulations/02_Setting_Up_Your_First_Simulation
+        # Removed one level of nesting here, as Jekyll typically doesn't support third-level navigation by default
       - title: "MD Software Tools"
         url: /caddtools/md_simulations/tools
       - title: "MD Tutorials"
@@ -27,3 +23,4 @@ main:
         url: /caddtools/machine_learning/projects
       - title: "ML Resources"
         url: /caddtools/machine_learning/resources
+
