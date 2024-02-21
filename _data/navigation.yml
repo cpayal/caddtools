@@ -4,11 +4,5 @@ main:
     url: /caddtools/about/
   - title: "Molecular Dynamics Simulations"
     url: /caddtools/md_simulations
-    - title: "Machine Learning in CADD"
+  - title: "Machine Learning in CADD"
     url: /caddtools/machine_learning
-  # - title: "Get Started"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
