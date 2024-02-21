@@ -2,7 +2,28 @@
 main:
   - title: "About"
     url: /caddtools/about/
+
   - title: "Molecular Dynamics Simulations"
-    url: /caddtools/md_simulations
+    url: /caddtools/md_simulations/
+    children:
+      - title: "MD for beginners"
+        url: /caddtools/md_simulations/Basic_Guides
+            children:
+              - title: "Introduction to MD"
+                url: /caddtools/md_simulations/01_introduction_to_MD
+              - title: "Setting up your first System"
+                url: /caddtools/md_simulations/02_Setting_Up_Your_First_Simulation
+      - title: "MD Software Tools"
+        url: /caddtools/md_simulations/tools
+      - title: "MD Tutorials"
+        url: /caddtools/md_simulations/tutorials
+
   - title: "Machine Learning in CADD"
-    url: /caddtools/machine_learning
+    url: /caddtools/machine_learning/
+    children:
+      - title: "ML Basics"
+        url: /caddtools/machine_learning/basics
+      - title: "ML Projects"
+        url: /caddtools/machine_learning/projects
+      - title: "ML Resources"
+        url: /caddtools/machine_learning/resources
