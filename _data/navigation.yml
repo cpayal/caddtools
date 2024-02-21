@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: https://cpayal.github.io/caddtools/about/
+    url: /caddtools/about/
   - title: "Molecular Dynamics Simulations"
-    url: https://cpayal.github.io/caddtools/md_simulations
+    url: /caddtools/md_simulations
+    - title: "Machine Learning in CADD"
+    url: /caddtools/machine_learning
   # - title: "Get Started"
   #   url: /year-archive/
   # - title: "Sample Collections"
