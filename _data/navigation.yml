@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://github.com/cpayal/caddtools/blob/main/about/
+    url: https://github.com/cpayal/caddtools/tree/main/about/
 
   - title: "Molecular Dynamics Simulations"
     url: /caddtools/md_simulations/
