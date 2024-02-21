@@ -4,23 +4,23 @@ main:
     url: /about/
 
   - title: "Molecular Dynamics Simulations"
-    url: /caddtools/md_simulations/
+    url: /md_simulations/
     children:
       - title: "MD for beginners"
-        url: /caddtools/md_simulations/Basic_Guides
+        url: /md_simulations/Basic_Guides
         # Removed one level of nesting here, as Jekyll typically doesn't support third-level navigation by default
       - title: "MD Software Tools"
-        url: /caddtools/md_simulations/tools
+        url: /md_simulations/tools
       - title: "MD Tutorials"
-        url: /caddtools/md_simulations/tutorials
+        url: /md_simulations/tutorials
 
   - title: "Machine Learning in CADD"
-    url: /caddtools/machine_learning/
+    url: /machine_learning/
     children:
       - title: "ML Basics"
-        url: /caddtools/machine_learning/basics
+        url: /machine_learning/basics
       - title: "ML Projects"
-        url: /caddtools/machine_learning/projects
+        url: /machine_learning/projects
       - title: "ML Resources"
-        url: /caddtools/machine_learning/resources
+        url: /machine_learning/resources
 
