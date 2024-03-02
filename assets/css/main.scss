@@ -1,15 +1,3 @@
----
----
-
-@import "minimal-mistakes"; // Importing theme styles
-
-body {
-  margin: 0 auto; // Centering the content with automatic margins
-  max-width: 1200px; // Limiting maximum width of the content
-  padding: 0 10px; // Adding some padding on the sides
-  position: relative; // Needed for pseudo-element positioning
-}
-
 body::before {
   content: "";
   position: absolute;
@@ -17,13 +5,10 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('../images/wheels_of_CADD.gif'); /* Adjust path as necessary */
-  background-size: cover; /* Cover ensures the background covers the entire page */
-  background-position: center; /* Center the background image */
-  background-repeat: no-repeat; /* Prevent the background image from repeating */
-  }
-
-body, .wrapper {
-  position: relative;
-  z-index: 1; // Ensuring content is above the pseudo-background
+  background-image: url('../images/wheels_of_CADD.gif'); /* Update with your GIF filename */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 1; /* Adjust if you want your image to be transparent */
+  z-index: -1;
 }
