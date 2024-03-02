@@ -17,13 +17,11 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url('../images/background.jpg'); /* Adjust path as necessary */
+  background-image: url('/assests/images/wheels_of_cadd.gif'); /* Adjust path as necessary */
   background-size: cover; /* Cover ensures the background covers the entire page */
   background-position: center; /* Center the background image */
   background-repeat: no-repeat; /* Prevent the background image from repeating */
-  opacity: 0.8; // Making the background image 50% transparent
-  z-index: -1; // Ensuring the pseudo-element is behind the content
-}
+  }
 
 body, .wrapper {
   position: relative;
