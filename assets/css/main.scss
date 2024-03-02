@@ -1,6 +1,12 @@
-body, .hero {
-  background-image: url('../images/wheels_of_CADD.gif'); /* Update with the correct path */
+// Importing theme styles first
+@import "minimal-mistakes";
+
+// Then, define your custom styles
+.hero {
+  height: 100vh;
+  background-image: url('/assets/images/wheels_of_CADD.gif'); // Make sure this path is correct
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  opacity: 0.5; // If you want to make the image or the div slightly transparent
 }
